@@ -62,10 +62,7 @@ flovera/
     limit), all-bookings management with status updates, invoices & payment recording (admin-only),
     and a customer list.
 
-## Notes for going to production
-- Change `flovera.jwt.secret` and the default admin password in `application.properties`.
-- Swap the sample Unsplash image URLs in `Home.jsx` / seed data for your own venue/service photos.
-- Add HTTPS, environment-based config, and a proper email verification flow for customer sign-up.
+
 =======
 Flovera — Event Management Platform
 
